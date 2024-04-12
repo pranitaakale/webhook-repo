@@ -1,0 +1,13 @@
+.home_containerRepoDetailsList li {
+  /* border: 0.02rem solid magenta; */
+  text-align: left;
+  text-decoration: none;
+  list-style-type: none;
+  margin: 1rem 3rem;
+  padding: 1rem;
+  background-color: #eef4ff;
+}
+
+.home_containerRepoDetailsList span {
+  font-weight: 700;
+}
